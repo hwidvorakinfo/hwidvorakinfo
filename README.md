@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hwidvorakinfo
+- 👀 I’m interested in embedded electronics
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on mobile app programming
+- 📫 How to reach me hw@idvorak.info
